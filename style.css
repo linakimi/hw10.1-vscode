@@ -20,7 +20,7 @@ html {
 }
 
 .border-box{
-  
+  box-sizing: border-box;
 }
 
 strong {
@@ -35,11 +35,11 @@ strong {
   background-color: #ff8ba7;
 }
 
-.two {
+/*.two {
 }
 
 .three {
-}
+} */
 
 
 
