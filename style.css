@@ -19,27 +19,36 @@ html {
   padding: 20px;
 }
 
-.border-box{
+/*.border-box{
   box-sizing: border-box;
-}
+}*/
 
 strong {
   background-color: #ffc0ad;
+  width: 25px;
+  display: block;
+  float: right;
 }
 
 .inline {
   background-color: #ffc0ad;
+  width: 25px;
+  display: inline;
 }
 
 .inlineBlock {
   background-color: #ff8ba7;
+  width: 50px;
+  display: inline-block;
 }
 
-/*.two {
+.two {
+  float: right;
 }
 
 .three {
-} */
+  float: right;
+} 
 
 
 
